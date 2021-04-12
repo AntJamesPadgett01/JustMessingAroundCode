@@ -1,0 +1,16 @@
+C:\Users\antho\repos\JustMessingAroundCode\bin\Debug\net5.0\JustMessingAroundCode.exe
+C:\Users\antho\repos\JustMessingAroundCode\bin\Debug\net5.0\JustMessingAroundCode.deps.json
+C:\Users\antho\repos\JustMessingAroundCode\bin\Debug\net5.0\JustMessingAroundCode.runtimeconfig.json
+C:\Users\antho\repos\JustMessingAroundCode\bin\Debug\net5.0\JustMessingAroundCode.runtimeconfig.dev.json
+C:\Users\antho\repos\JustMessingAroundCode\bin\Debug\net5.0\JustMessingAroundCode.dll
+C:\Users\antho\repos\JustMessingAroundCode\bin\Debug\net5.0\ref\JustMessingAroundCode.dll
+C:\Users\antho\repos\JustMessingAroundCode\bin\Debug\net5.0\JustMessingAroundCode.pdb
+C:\Users\antho\repos\JustMessingAroundCode\obj\Debug\net5.0\JustMessingAroundCode.csprojAssemblyReference.cache
+C:\Users\antho\repos\JustMessingAroundCode\obj\Debug\net5.0\JustMessingAroundCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\JustMessingAroundCode\obj\Debug\net5.0\JustMessingAroundCode.AssemblyInfoInputs.cache
+C:\Users\antho\repos\JustMessingAroundCode\obj\Debug\net5.0\JustMessingAroundCode.AssemblyInfo.cs
+C:\Users\antho\repos\JustMessingAroundCode\obj\Debug\net5.0\JustMessingAroundCode.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\JustMessingAroundCode\obj\Debug\net5.0\JustMessingAroundCode.dll
+C:\Users\antho\repos\JustMessingAroundCode\obj\Debug\net5.0\ref\JustMessingAroundCode.dll
+C:\Users\antho\repos\JustMessingAroundCode\obj\Debug\net5.0\JustMessingAroundCode.pdb
+C:\Users\antho\repos\JustMessingAroundCode\obj\Debug\net5.0\JustMessingAroundCode.genruntimeconfig.cache
